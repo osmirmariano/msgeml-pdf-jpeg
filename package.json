@@ -1,6 +1,6 @@
 {
   "name": "msgeml-pdf-jpeg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Converte arquivos .msg (Outlook)  e .eml (Gmail) em PDFs e JPEG com formatação e imagens preservadas.",
   "main": "src/index.js",
   "bin": {

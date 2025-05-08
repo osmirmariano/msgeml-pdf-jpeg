@@ -10,7 +10,7 @@ Converte arquivos `.msg` (Outlook) e `.eml` (Gmail) em PDFs e JPEG com formataç
 ## Instalação
 
 ```bash
-npm install -g msgeml-pdf-jpeg
+npm i msgeml-pdf-jpeg
 ```
 
 ## Documentação
